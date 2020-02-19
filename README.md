@@ -10,7 +10,7 @@
 
 # HOW TO USE
 <pre>
-# make
-Enter your cpp name (without extension) : </pre>**{ your file name }**<pre>
-Enter your bash script file name : </pre>**{ new bash script }**<pre>
+<b># make</b>
+Enter your cpp name (without extension) : <b>{ your file name }</b>
+Enter your bash script file name : <b>{ new bash script }</b>
 </pre>
